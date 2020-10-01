@@ -1,5 +1,6 @@
 # Basic Project for Beginner
 # import all functions from the tkinter 
+#code starts from here.........
 from tkinter import *
 
 # import messagebox class from tkinter 
@@ -204,4 +205,6 @@ if __name__ == "__main__" :
 
 	# Start the GUI 
 gui.mainloop()
+
+
 
